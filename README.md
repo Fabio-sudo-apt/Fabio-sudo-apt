@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Fábio Souza Freitas
+
+
+### Heloo! Welcome to my profile
+
+  - 😎 I like to study technology. 
+  - 💻 At the moment I am studying HTML, CSS and JavaScript. And for systems developments python study and C++.
+  - ✌  I have two repositories that can interested you about Python and about Web projects.

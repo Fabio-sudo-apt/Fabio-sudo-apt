@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### Heloo! Welcome to my profile
 
-  - 😎 I like to study technology. 
-  - 💻 At the moment I am studying HTML, CSS and JavaScript. And for systems developments python study and C++.
-  - ✌  I have two repositories that can interested you about Python and about Web projects.
+  - 😎 Gosto de estudar tecnologia.
+  - 💻 No momento estou estudando HTML, CSS e JavaScript. E para desenvolvimento de sistemas estudo python e C ++.
+  - ✌ Tenho dois repositórios que podem interessar a você sobre Python e sobre projetos da Web

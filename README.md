@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
   - 😎 Gosto de estudar tecnologia.
   - 💻 No momento estou estudando HTML, CSS e JavaScript. E para desenvolvimento de sistemas estudo python e C ++.
-  - ✌ Tenho dois repositórios que podem interessar a você sobre Python e sobre projetos da Web

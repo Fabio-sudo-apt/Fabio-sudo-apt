@@ -5,7 +5,7 @@
 
   - 🎈 Eu tenho experiencia com HTML, CSS, JS, Git, Python, C++.
 
-  - 💬 Veja meu LinkedIn: <a href="https://www.linkedin.com/in/f%C3%A1bio-souza-b223601a3/">Fábio Souza</a>
+  - 💬 Veja meu LinkedIn: <a href="https://www.linkedin.com/in/f%C3%A1bio-souza-b223601a3/" target="_blank">Fábio Souza</a>
   
   <p>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fabio-sudo-apt&show_icons=true&theme=vue-dark))](https://github.com/anuraghazra/github-readme-stats)</p>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-sudo-apt&show_icons=true&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

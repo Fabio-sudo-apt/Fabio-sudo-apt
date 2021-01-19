@@ -1,21 +1,11 @@
-<!--
-** ### Hi there 👋 Fabio-sudo-apt/Fabio-sudo-apt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Olá Bem-vindo ao meu perfil </h1>
+<p>Cursado bacharelado em sistema de informação e estudante de programação desde 2018, atualmente trabalhado como Full Stack como foco em Front -end. Com isso inicie em 2020 estudos em Web Designer para melhorar ainda, mas a experiência dos usuários em projetos futuros.</p>
 
-Here are some ideas to get you started:
+  - 👨‍💻 Desenvolvedor Front-end. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Fábio Souza Freitas
+  - 🎈 Eu tenho experiencia com HTML, CSS, JS, Git, Python, C++.
 
-
-### Heloo! Welcome to my profile
-
-  - 😎 Gosto de estudar tecnologia.
-  - 💻 No momento estou estudando HTML, CSS e JavaScript. E para desenvolvimento de sistemas estudo python e C ++.
+  - 💬 Veja meu LinkedIn: <a href="https://www.linkedin.com/in/f%C3%A1bio-souza-b223601a3/">Fábio Souza</a>
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fabio-sudo-apt&show_icons=true&theme=vue-dark))](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-sudo-apt&show_icons=true&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

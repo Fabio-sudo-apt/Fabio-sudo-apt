@@ -3,7 +3,7 @@
 
   - 👨‍💻 Desenvolvedor Front-end. 
 
-  - 🎈 Eu tenho experiencia com HTML, CSS, JS, Git, Python, C++.
+  - 🎈 Eu tenho experiencia com HTML, CSS, JS, Git, jQuery, Firebase.
 
   - 💬 Veja meu LinkedIn: <a href="https://www.linkedin.com/in/f%C3%A1bio-souza-b223601a3/" target="_blank">Fábio Souza</a>
   

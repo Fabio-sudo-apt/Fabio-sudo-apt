@@ -9,7 +9,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="HTML" width="30" height="30">, 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="HTML" width="30" height="30">, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="HTML" width="30" height="30">,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="HTML" width="30" height="30">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="30" height="30"/>
 
   - 💬 Veja meu LinkedIn: <a href="https://www.linkedin.com/in/f%C3%A1bio-souza-b223601a3/" target="_blank">Fábio Souza</a>
   

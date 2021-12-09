@@ -1,6 +1,6 @@
  ## Olá Bem-vindo ao meu perfil
 
-  - 👨‍💻 Desenvolvedor Web júnior 
+  - 👨‍💻 Desenvolvedor Web Júnior 
 
   - 🎈 Estudando NodeJs
 <div align="center">

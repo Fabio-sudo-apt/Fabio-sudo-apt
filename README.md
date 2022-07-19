@@ -5,8 +5,8 @@
   - 🎈 Estudando NodeJs
 <div align="center">
   <a href="https://github.com/fabio-sudo-apt">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabio-sudo-apt&show_icons=true&theme=Customize Border Color&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-sudo-apt&layout=compact&lshow_icons=true&theme=Customize Border Color"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabio-sudo-apt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-sudo-apt&layout=compact&lshow_icons=true&theme=dark"/>
 </div>
   
 ## Front-End

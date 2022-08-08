@@ -39,7 +39,7 @@
  
   <img align="center" alt="Fabio-CSS" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
  
-  <img align="center" alt="Fabio-Js"height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="Fabio-Js" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
  
   <img align="center" alt="Fabio-Jquery"  height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
  

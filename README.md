@@ -1,6 +1,10 @@
-# 💫 Sobre me:
-Estou cursando bacharelado em sistemas de informação no 6 semestre, tenho mais de 7 meses de experiência como Desenvolvimento Back End e 7 meses com Desenvolvimento Mobile, com isso adquirir boas práticas de programação e padrões de projetos como MVC, MVP, SOLID. Principais tecnologias Back End (Node JS, TypeScript, TypeORM) e no Mobile o Dart e o Framework flutter(Clean Code, Clean Arch, API RESTful, Widget, Provider).
+## Habilidades
 
+- Desenvolvimento de software com foco em Node.js e React
+- Experiência sólida em Ruby on Rails
+- Desenvolvimento mobile com Flutter e React Native
+- Conhecimento em boas práticas de programação, incluindo MVC, SOLID, Clean Code e Clean Architecture
+- Experiência em desenvolvimento de APIs RESTful
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-souza-b223601a3/) 

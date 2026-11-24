@@ -2,12 +2,9 @@
 
 Desenvolvedor Full Stack na **HiGestor**, onde cuido de sistemas em produção de ponta a ponta: do banco de dados ao app, do código ao deploy. Gosto da parte que ninguém vê: arquitetura, filas, pagamentos e tudo o que precisa funcionar sem falhar.
 
-- 🏗️ Defino a arquitetura dos novos projetos e conduzo code reviews no time
-- 💳 Desenvolvi cobrança e pagamentos e um módulo de eventos que gera cerca de R$ 200 mil por ano
-- 🤖 Criei o módulo de IA da plataforma, presente em mais de 200 bases de clientes
-- 🧑‍🏫 Acompanho devs júnior e compartilho o que aprendo em palestras e artigos
-- 🎓 Pós-graduação em Engenharia de Software em IA Aplicada (UniPDS), em andamento
-- 📍 Icó, Ceará · trabalho remoto
+## 🤙 Um pouco sobre mim
+
+Comecei no mobile, passei pelo back-end e hoje transito pela stack inteira. O que mais me motiva é transformar um problema confuso em um sistema simples de manter. Fora do trabalho, gosto de criar ferramentas que resolvem dores do meu próprio dia a dia, como uma extensão para o Chrome e um gerador de currículos.
 
 ## 🛠️ Stack
 
